@@ -1,0 +1,6 @@
+C:\Users\diego\source\repos\Area and Circumference of a circle\Area and Circumference of a circle\bin\Debug\Area and Circumference of a circle.exe.config
+C:\Users\diego\source\repos\Area and Circumference of a circle\Area and Circumference of a circle\bin\Debug\Area and Circumference of a circle.exe
+C:\Users\diego\source\repos\Area and Circumference of a circle\Area and Circumference of a circle\bin\Debug\Area and Circumference of a circle.pdb
+C:\Users\diego\source\repos\Area and Circumference of a circle\Area and Circumference of a circle\obj\Debug\Area and Circumference of a circle.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Area and Circumference of a circle\Area and Circumference of a circle\obj\Debug\Area and Circumference of a circle.exe
+C:\Users\diego\source\repos\Area and Circumference of a circle\Area and Circumference of a circle\obj\Debug\Area and Circumference of a circle.pdb
